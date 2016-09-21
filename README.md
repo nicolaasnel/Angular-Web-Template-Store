@@ -3,5 +3,7 @@
 
 ### Quickstart
 clone repo
+
 cd into repo
+
 run `npm start`
